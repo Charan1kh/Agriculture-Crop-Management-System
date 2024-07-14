@@ -35,8 +35,10 @@ Insertion Page:
 Technologies: HTML, CSS, JS
 
 Provides a form for admin users to add new crop details, including crop name, soil type, duration, fertilizer, and insecticide. Input validation ensures the accuracy of data entries.
+
 ![alt text](
 https://github.com/Charan1kh/ACMS/blob/master/ACM%20ProjectFiles/img/Chart%20(1).png?raw=true)
+
 ### Conclusions and Notes
 The ACMS effectively manages crop information, optimizing resource usage and improving agricultural efficiency. Developers should ensure compatibility of MySQL and PHP versions, validate input fields, and implement robust error handling for seamless operations. Regular updates and thorough testing are crucial for maintaining system reliability and performance.
 
